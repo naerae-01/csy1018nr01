@@ -1,0 +1,23 @@
+.header{
+         background-color: #5d6a4c;
+          text-align: center;
+          font-size: 27px;
+          color: white;
+          padding: 30px;
+          
+}
+
+.container{
+           background-color: #a36351;
+    
+           padding: 1px;
+ 
+}
+
+.footer{
+             background-color: #d5d5c5;
+             text-align: center;
+             
+             padding: 20px;
+}
+        
